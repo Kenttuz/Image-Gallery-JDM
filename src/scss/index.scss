@@ -1,0 +1,8 @@
+//o ~ significa que ele vai procurar o import dentro do node models
+@import '~bootstrap/scss/bootstrap';
+
+//diretório das fontes
+$fa-font-path: '~font-awesome/fonts';
+@import "~font-awesome/scss/font-awesome";
+
+@import 'custom';
